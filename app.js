@@ -11,7 +11,7 @@ app.use(express.json())
 
 app.get("/",(req, res) => {
     res.status(200).json({
-        SlackUsername: "TochiN",
+        slackUsername: "TochiN",
         backend: true,
         age: 40,
         bio: "A curious mind always eager to learn"
