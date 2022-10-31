@@ -1,1 +1,1 @@
-My firts Zuri task intoducing my self
+My firts Zuri task intoducing myself
